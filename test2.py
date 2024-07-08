@@ -6,4 +6,4 @@ if(ans==3):
 else:
 	print("Incorrect answer")
 
-input("Press enter to exit")
+input("Press enter 2 exit")
